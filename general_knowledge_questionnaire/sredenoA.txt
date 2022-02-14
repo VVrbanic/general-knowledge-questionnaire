@@ -1,0 +1,420 @@
+{
+"question":"Tko je 1889. u Saint-Remyju naslikao znamenitu "Zvjezdanu noæ"?",
+"option1":"Vincent van Gogh",
+"option2":"Andy Warhol",
+"option3":"Vasilij Kadinski",
+"option4":"Oskar Kokoschka"
+},
+{
+"question":"U kojem je razdoblju živio Leonardo da Vinci?",
+"option1":"Renesansi",
+"option2":"Baroku",
+"option3":"Realizmu",
+"option4":"Gotici"
+},
+{
+"question":"Koji od sljedeæih djela nije napisao Lav Nikolajeviè Tolstoj?",
+"option1":"Djeca grada Moskve",
+"option2":"Rat i mir",
+"option3":"Ana Karenjina",
+"option4":"Djetinjstvo"
+},
+{
+"question":"Tko je napisao Eneidu?",
+"option1":"Vergilije",
+"option2":"Eshil",
+"option3":"Horacije",
+"option4":"Homer"
+},
+{
+"question":"Voltaire je:",
+"option1":"bio satirièar",
+"option2":"pisao veæinom tragedije",
+"option3":"poznat po tome što je osnovao prvu Francusku politièku stranku",
+"option4":"otkrio bakterije"
+},
+{
+"question":"Kako se zove žena Johna Lennona?",
+"option1":"Yoko Ono",
+"option2":"Yuki Dono",
+"option3":"Yoko Dono",
+"option4":"Yuki Ono"
+},
+{
+"question":"Kako je preminuo poznati makedonski pjevaè Toše Proeski?",
+"option1":"U automobilskoj nesreæi",
+"option2":"Imao je degenerativnu bolest",
+"option3":"Predozirao se",
+"option4":"U snu"
+},
+{
+"question":"Koja od sljedeæih pjesama ne izvodi Elvis Presley?",
+"option1":"Only you",
+"option2":"Jailhouse Rock",
+"option3":"Love me tender",
+"option4":"She's not you"
+},
+{
+"question":"Obitelj Rockerfeller je stekla bogatstvo na kojoj vrsti industrije?",
+"option1":"Industriji nafte",
+"option2":"Industriji zlata",
+"option3":"Industriji olova",
+"option4":"Industriji papira"
+},
+{
+"question":"Što od navedenog nije toèno vezano za Christophera Columbusa?",
+"option1":"Vjerovao je u teoriju da je Zemlja ravna ploèa",
+"option2":"U dobu od 41 godine doživio je srèani udar",
+"option3":"Bio je Talijan po podrijetlu",
+"option4":"Imao je ukupno 6 velikih putovanja"
+},
+{
+"question":"Znanstvenik Ivica Ðikiæ je poznat po otkriæu:",
+"option1":"Mehanizma obrane ljudskog organizma od karcinoma",
+"option2":"Molekularne strukture tuberkuloze",
+"option3":"Lijeka protiv sifilisa",
+"option4":"Cjepiva protiv HIV-a"
+},
+{
+"question":"Što od navedenog se ne odnosi na Louisa Pasteura?",
+"option1":"Bio je prosjeèan uèenik s darom za kemiju",
+"option2":"Bavio se prouèavanjem alkoholne i mlijeène fermentacije",
+"option3":"Otkrio je uzroènike bolesti kod peradi",
+"option4":"Nakon bombardiranja Pariza je tražio da se briše njegovo ime s popisa poèasnih doktorata u Sveuèilišta u Bonnu"
+},
+{
+"question":"Koji par nije toèan?",
+"option1":"Michael Faraday- prvi stetoskop",
+"option2":"Count Alessandro Volta- prva baterija",
+"option3":"Humpary Davy- prva lampa",
+"option4":"George Stephanson- prva lokomotiva"
+},
+{
+"question":"Koji od sljedeæih izuma nisu izumili Hrvati?",
+"option1":"Pisaèa mašina",
+"option2":"Padobran",
+"option3":"Penkala",
+"option4":"MP3 Player"
+},
+{
+"question":"Što se od navedenog ne odnosi na Friedricha Nietzschea?",
+"option1":"Umro je od sifilisa",
+"option2":"Zaslužan je za smjer u filozofiji koji se zove nihilizam",
+"option3":"Jedna od Nietzscheovih knjiga je Tako je govorio Zaratustra",
+"option4":"Nietzsche je zaprosio istu osobu tri puta i ona ga je tri puta odbila"
+},
+{
+"question":"Koji pojam najèešæe vežemo za Kanta?",
+"option1":"Transcendentalna metoda",
+"option2":"Transformalna metoda",
+"option3":"Transceformalna metoda",
+"option4":"Trensforcentralna metoda"
+},
+{
+"question":"Burrhus Frederic Skinner je dio koje psihološke škole?",
+"option1":"Biheviorizam",
+"option2":"Geštaltizam",
+"option3":"Kognitivizam",
+"option4":"Konekcionizam"
+},
+{
+"question":"Koje godine je roðen bivši predsjednik Stjepan Mesiæ?",
+"option1":"1934.",
+"option2":"1940.",
+"option3":"1942.",
+"option4":"1930."
+},
+{
+"question":"Koji je od navedenih Hrvatskih kraljeva nije bio Trpimiroviæ?",
+"option1":"Petar Snaèiæ",
+"option2":"Kralj Tomislav",
+"option3":"Petar Krešimir IV.",
+"option4":"Trpimir II."
+},
+{
+"question":"Kako se zvala prva njemaèka predsjednica vlade?",
+"option1":"Angela Merkel",
+"option2":"Käte Strobel",
+"option3":"Petra Roth",
+"option4":"Elizabeth Schwarzhaupt"
+},
+{
+"question":"Kako se zvala tajna služba u Sovjetskom savezu?",
+"option1":"KGB",
+"option2":"CIA",
+"option3":"Stasi",
+"option4":"CBC"
+},
+{
+"question":"Tko od navedenih nije bio sudionik Hrvatskog proljeæa?",
+"option1":"Marko Tripalo",
+"option2":"Dražen Budiša",
+"option3":"Vlado Gotovac",
+"option4":"Savka Dabèeviæ- Kuèar"
+},
+{
+"question":"Kojoj egipatskoj dinastiji pripadaju Nefertiti i Tutankamon?",
+"option1":"18.",
+"option2":"20.",
+"option3":"16.",
+"option4":"14."
+},
+{
+"question":"Što ne pripada metalnom doba?",
+"option1":"Aluminijsko",
+"option2":"Bakreno",
+"option3":"Bronèano",
+"option4":"Željezno"
+},
+{
+"question":"Bomba se zvala Little Boy, a kako se zvao zrakoplov?",
+"option1":"Enola Gay",
+"option2":"Foxy Lady",
+"option3":"Red Ribbon",
+"option4":"Hey Jude"
+},
+{
+"question":"Martin Luther je okaèio koliko teza na vrata crkve u Wittenberg?",
+"option1":"95",
+"option2":"68",
+"option3":"83",
+"option4":"100"
+},
+{
+"question":"Koji od navedenih država nikad nije bila èlanica Antante?",
+"option1":"Njemaèka",
+"option2":"Rusija",
+"option3":"Francuska",
+"option4":"Velika Britanija"
+},
+{
+"question":"Kako se još zove pad Wall Streeta 1929. godine?",
+"option1":"Crni utorak",
+"option2":"Crni ponedjeljak",
+"option3":"Crni èetvrtak",
+"option4":"Crni petak"
+},
+{
+"question":"Koji je bio glavni grad Habsburške Monarhije?",
+"option1":"Beè",
+"option2":"Graz",
+"option3":"Bern",
+"option4":"Bonn"
+},
+{
+"question":"Što je enklava?",
+"option1":"Dio države, regije ili teritorija koja je sa svih strana okružena nekom drugom državom",
+"option2":"Naziv rijeènog podruèja u kojem se svije rijeke spajaju",
+"option3":"Drugi naziv za regiju",
+"option4":"Drugi naziv za gejzir"
+},
+{
+"question":"Kako se zvao polarni medvjed koji je roðen u zoološkom vrtu u Berlinu 2006. godine, a umro 2011.?",
+"option1":"Knut",
+"option2":"Kurt",
+"option3":"Kant",
+"option4":"Knat"
+},
+{
+"question":"Koji od sljedeæih jezika nije službeni u Švicarskoj?",
+"option1":"Engleski",
+"option2":"Talijanski",
+"option3":"Francuski",
+"option4":"Njemaèki"
+},
+{
+"question":"Kroz koliko vremenskih zona se proteže Rusija?",
+"option1":"9",
+"option2":"8",
+"option3":"7",
+"option4":"6"
+},
+{
+"question":"Kroz koju saveznu državu ne prolazi Yellowstone?",
+"option1":"Oregon",
+"option2":"Wyoming",
+"option3":"Montana",
+"option4":"Idaho"
+},
+{
+"question":"Koja je najveæa država u Africi (s obzirom na površinu)?",
+"option1":"Alžir",
+"option2":"Južnoafrièka Republika",
+"option3":"Angola",
+"option4":"Sudan"
+},
+{
+"question":"3U kojoj je državi službeni jezik portugalski?",
+"option1":"Brazilu",
+"option2":"Argentini",
+"option3":"Boliviji",
+"option4":"Èileu"
+},
+{
+"question":"Na kojem polu žive pingvini?",
+"option1":"Južnom",
+"option2":"Sjevernom",
+"option3":"Na oba pola",
+"option4":"Ni na jednom polu"
+},
+{
+"question":"Koja od sljedeæih životinja ne živi na Antartici?",
+"option1":"Polarni medvjed",
+"option2":"Foka",
+"option3":"Pingvin",
+"option4":"Kit"
+},
+{
+"question":"Koja je najrjeðe naseljena županija u Hrvatskoj poslije Lièko-senjske?",
+"option1":"Šibensko-kninska",
+"option2":"Virovitièko-podravska",
+"option3":"Zadarska",
+"option4":"Požeško-slavonska"
+},
+{
+"question":"Mramorno more nalazi se izmeðu:",
+"option1":"Crnog i Egejskog mora",
+"option2":"Labrador mora i Atlantskog oceana",
+"option3":"Jadranskog i Egejskog mora",
+"option4":"Japanskog i Žutog mora"
+},
+{
+"question":"Na kojem kontinentu se nalazi Viktorijino jezero?",
+"option1":"Afrika",
+"option2":"Sjeverna Amerika",
+"option3":"Europa",
+"option4":"Australija"
+},
+{
+"question":"Koja se zemlja još zove zemlja s 1000 fjordova?",
+"option1":"Norveška",
+"option2":"Island",
+"option3":"Farski otoci",
+"option4":"Kanada"
+},
+{
+"question":"Koja je od navedenih drveæa zimzeleno?",
+"option1":"Jela",
+"option2":"Kesten",
+"option3":"Breza",
+"option4":"Hrast"
+},
+{
+"question":"Lanac muzeja Madame Tussaud je poznat po èemu?",
+"option1":"Po voštanim figurama",
+"option2":"Po iluzijama",
+"option3":"Po svijeæama",
+"option4":"Po smanjenim verzijama poznatih graðevina svijeta"
+},
+{
+"question":"Koji od sljedeæih parova nije toèan?",
+"option1":"Washington- Empire State Building",
+"option2":"Pariz- Eiffelov toranj",
+"option3":"New York- Brooklyn Bridge",
+"option4":"London- Big Ben"
+},
+{
+"question":"Koja od sljedeæih nacionalnih baština nije pod UNESCO zaštitom?",
+"option1":"Zagrebaèka katedrala",
+"option2":"Stari grad u Dubrovniku",
+"option3":"Katedrala Sv. Jakova u Šibeniku",
+"option4":"Povijesni grad u Trogiru"
+},
+{
+"question":"Kojemu je književnom liku Dulcinea bila ideal ženske ljepote?",
+"option1":"Don Qijoteu",
+"option2":"Faustu",
+"option3":"Guliveru",
+"option4":"Nemu"
+},
+{
+"question":"Koji od slijedeæih romana nije SF roman?",
+"option1":"Žene su s Venere, a muškarci s Marsa",
+"option2":"Vrli novi svijet",
+"option3":"1984.",
+"option4":"Ljudi bez ièega"
+},
+{
+"question":"Koji bend izvodi pjesmu „What is my age again?“",
+"option1":"Blink 182",
+"option2":"Sum 41",
+"option3":"Panic at the disco!",
+"option4":"The Killers"
+},
+{
+"question":"Tko je skladatelj instrumentala Exodus?",
+"option1":"Ernest Gold",
+"option2":"Maxim Mrvica",
+"option3":"Mack David",
+"option4":"Leonard Rosenman"
+},
+{
+"question":"Koliko je Oscara osvojio Titanic?",
+"option1":"11",
+"option2":"9",
+"option3":"13",
+"option4":"10"
+},
+{
+"question":"Kako se zvala prva Hrvatska opera?",
+"option1":"Ljubav i zloba",
+"option2":"Ero s onoga svijeta",
+"option3":"Porin",
+"option4":"Nikola Šubiæ Zrinski"
+},
+{
+"question":"Koji od sljedeæih spomenika nije dobro uparen sa gradom u kojem se nalazi?",
+"option1":"Marine Corps War Memorial- Boston",
+"option2":"Kip slobode- New York",
+"option3":"Abraham Lincoln- Washington",
+"option4":"Birth of the New World- Arecibo"
+},
+{
+"question":"Koja od navedenih podruèja je podruèje filozofije?",
+"option1":"Ontologija",
+"option2":"Onkologija",
+"option3":"Ontalogija",
+"option4":"Onkolologija"
+},
+{
+"question":"Što nije toèno vezano za skeptike?",
+"option1":"U novijem skepticizmu se ne dopušta da se neka opcija sagledava kao vjerojatnija",
+"option2":"Nastali su u Grèkoj i Rimu",
+"option3":"Uz njih se veže pojam Epohé",
+"option4":"Najpoznatiji skeptici su Piron i Sekst Empirik"
+},
+{
+"question":"U kojem filozofskom dobu pripada Karl Popper?",
+"option1":"Suvremenoj filozofiji",
+"option2":"Novovjekovnoj filozofiji",
+"option3":"Kršæanskoj filozofiji",
+"option4":"Helenistièko-rimskoj filozofiji"
+},
+{
+"question":"Koja životinja nije ukljuèena u kineski zodijak?",
+"option1":"Maèka",
+"option2":"Zmija",
+"option3":"Pas",
+"option4":"Zmaj"
+},
+{
+"question":"Što nije toèno za Boga Marduka?",
+"option1":"Ljude je stvorio u èast svoje pobjede nad Asircima",
+"option2":"Bio je zaštitnik grada Babilona",
+"option3":"Postao je nadmoæan za vrijeme vladavine kralja Hamurabija",
+"option4":"Uz pomoæ svoga oca Enkija je stvorio ljudsku rasu"
+},
+{
+"question":"Iz koje regije potièe Džainizam?",
+"option1":"Indije",
+"option2":"Butana",
+"option3":"Japana",
+"option4":"Tibeta"
+},
+{
+"question":"Što od navedenog nije toèno vezano za brak u Islamu?",
+"option1":"Muška djeca se smatraju vrjednijom od ženske",
+"option2":"Brak nije sakrament",
+"option3":"Savjetuje se sastanak mladenaca prije braka",
+"option4":"Islam dopušta rastavu"
+},

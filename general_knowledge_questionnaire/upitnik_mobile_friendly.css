@@ -1,0 +1,108 @@
+html, body, title {
+    /*koristimo pozadinu grey.jpg sliku koja je mala i ponavlja se, padding je 0 kako nebi bilo extra razmaka*/
+      margin: 0;
+      padding: 0;
+      background-image:url(greybg.jpg);
+      font-family: sans-serif;
+      }
+
+/* veličina 800*400 je horizontalna dimenzija, sve izvan toga će biti sakriveno (overflow:hidden)*/
+#navContent{
+      margin:auto;
+      width:800px;
+      height:400px;
+      position:relative;
+      overflow:hidden;
+      }
+
+#game1{
+      margin:auto;
+      width:800px;
+      height:400px;
+      right:0px;
+      position:absolute;
+      }
+
+/*game2 počinje na -800 te je sakriven jer je van dimenzija navContant*/
+#game2{
+      margin:auto;
+      width:800px;
+      height:400px;
+      right:-800px;
+      position:absolute;
+      }
+
+.questionText{
+      font-size:27px;
+      color: plum;
+      }
+
+.option{
+      width:400px;
+      height:60px;
+      margin:15px;
+      font-size:18px;
+      /*odgovori*/
+      color: darkslategray ;
+      padding:2px;
+      padding-left:10px;
+      /*rub oko odgovora*/
+      border: 2px solid plum;
+      cursor:pointer;
+      /*pozadina*/
+      background-color: plum;
+      }
+
+/*kursor promjeni boju kada je na nekom od odgovora*/
+.option:hover{
+      border:whitesmoke 2px;
+      color:whitesmoke;
+      }
+
+#topbar{
+      height:50px;
+      margin:auto;
+      margin-top:50px;
+      /*naslov*/
+      color: black;
+      font-size:36px;
+      font-family: sans-serif;
+      width:800px;
+      /*crta ispod naslova*/
+      border-bottom:solid paleturquoise 1px;
+      }
+
+.spacer{
+      height:30px;
+      }
+/* /* prikazuje jesi li točno odgovorila na pitanje
+.feedback1{
+      width:150px;
+      padding:5px;
+      font-size:30px;
+      color:#FFFFCC;
+      background-color:#009900;
+      font-family: sans-serif;
+      text-align:center;
+      }
+             
+.feedback2{
+      width:150px;
+      padding:5px;
+      font-size:30px;
+      color:#FFFFCC;
+      background-color:#CC3300;
+      font-family: sans-serif;
+      text-align:center;
+      }
+ */
+ @media screen and (max-width:800px) {
+	#topbar{margin-left:1%;margin-right:1%;width:96%;}
+	#navContent{margin:1%;width:98%;}	
+	#game1{margin:1%;width:98%;}
+	#game2{margin:1%;width:98%;}
+}
+
+@media screen and (max-width:460px) {
+	.option{width:80%;margin-top:5%;}
+} 

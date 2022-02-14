@@ -1,0 +1,30 @@
+<!--upitnik_mobile_friendly.html, which we have already done.
+- upitnik_mobile_friendly.css, which will hold the style information
+- jquery.js, which will enhance standard JavaScript
+- upitnik_mobile_friendly.js, which will control the quiz
+- upitnik_mobile_friendly.json, which will hold our question database-->
+<!DOCTYPE HTML>
+      <meta charset="UTF-8">
+      <head>
+        <meta name=viewport content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">   
+        <!--Informacija koja će biti izložena u tab-u-->  
+        <title>Test opće informiranosti</title>
+        <!--iz kojeg file-a ce traziti informaciju o stilu stranice--> 
+      	<link href="upitnik_mobile_friendly.css" rel="stylesheet" type="text/css"/>
+        <!--ekstenzija JS-a koja vec postoji, ne moramo ju sami pisati-->
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <!--naš JS koji će nam omogućiti da kviz bude interaktivan-->
+      	<script src="Upitnik_mobile_friendly.js"></script>
+      </head>
+      <body>
+        <!--svi div-ovi se odnose na sadržaj stranice,prvi se odnosi na naslov, 
+        drugi namješta razmak izmedu naslova i početka kviza-> pogledaj CSS i treći ima dva dijela, prvi sadži prvo pitanje, 
+        drugi sadrži drugo pitanje-->
+      	<div id="topbar">Upinik opće informiranosti</div>
+      	<div class="spacer"></div>
+      	<div id="navContent">
+     	 	  <div id="game1"></div>
+     		  <div id="game2"></div>
+      	</div>
+      </body>
+</html>

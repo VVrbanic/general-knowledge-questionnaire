@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Upitnik</title>
+        <link rel="stylesheet" href="/upitnik.css">
+    </head>
+    <body>
+        <h1>Upitnik grupa A</h1>
+        <p>Za odgovaranje na pitanja imate pola sata. Pažljivo odgovarajte na pitanje jer jednom kada odgovorite nemate mogućnost povratka na pitanje. 
+           Svako pitanje ima samo jedan točan odgovor, nema negativnih bodova. Na kraju ćete postotak rješenosti te kako ste riješili u odnosu na druge
+           učenike. Sretno!
+        <div id="main"><!-- open main div -->
+        <div id="header"><!-- open header div -->
+        <h1>Upitnik</h1>
+        </div><!-- close header div -->
+    
+        <h1>Upitnik</h1>
+        <form id="form1">
+
+            <h2>Tko je 1889. u Saint-Remyju naslikao znamenitu "Zvjezdanu noć"?</h2>
+            <label for="var_string"><input type="radio" name="variable" value="1" id="var_string" />Vincent van Gogh</label>
+            <label for="var_join"><input type="radio" name="variable" value="0" id="var_join" />Andy Wharol</label>
+            <label for="var_info"><input type="radio" name="variable" value="0" id="var_info" />Vasilij Kadinski</label>
+            <label for="var_condition"><input type="radio" name="variable" value="0" id="var_condition"/>Oskar Kokoschka</label>
+            
+            <h2>U kojem je razdoblju živio Leonardo da Vinci?</h2>
+            <label for="sub_string"><input type="radio" name="sub" value="0" id="sub_string"/>Baroku</label>
+            <label for="sub_join"><input type="radio" name="sub" value="1" id="sub_join"/>Renesanski</label>
+            <label for="sub_info"><input type="radio" name="sub" value="0" id="sub_info" />Realizmu</label>
+            <label for="sub_condition"><input type="radio" name="sub" value="0" id="sub_condition" />Gotici</label>
+            
+            <h2>Koji od sljedećih djela nije napisao Lav Nikolajevič Tolstoj?</h2>
+            <label for="cat_string"><input type="radio" name="con" value="0" id="cat_string" />Rat i mir</label>
+            <label for="cat_join"><input type="radio" name="con" value="0" id="cat_join" />Ana Karenjina</label>
+            <label for="cat_info"><input type="radio" name="con" value="0" id="cat_info" />Djetinjstvo</label>
+            <label for="cat_condition"><input type="radio" name="con" value="1" id="cat_condition" />Djeca grada Moskve</label>
+            <br>
+            <br>
+            <button type="submit" value="Submit">Završi kviz</button>
+            
+            </form>
+            
+            
+        <p>Postotak točnih odgovora: <span id="grade">__</span></p>
+        <p id="grade2"></p>
+    </div><!-- close main div -->
+    <script>
+        document.getElementById("form1").onsubmit=function() {
+               variable = parseInt(document.querySelector('input[name = "variable"]:checked').value);
+               sub = parseInt(document.querySelector('input[name = "sub"]:checked').value);
+               con = parseInt(document.querySelector('input[name = "con"]:checked').value);
+               
+               
+               result = variable + sub + con;
+               
+        document.getElementById("grade").innerHTML = result;
+        
+            if (result == 0) {result2 = "I don't think you studied."};
+            if (result == 1) {result2 = "You need to spend more time. Try again."};
+            if (result == 2) {result2 = "So close. Try again."};
+            if (result == 3) {result2 = "Great!"};
+            document.getElementById("grade2").innerHTML = result2; 
+
+
+               
+        
+        
+        return false; // required to not refresh the page; just leave this here
+        } //this ends the submit function
+        
+        </script>
+        
+        
+    </body>
+</html>
